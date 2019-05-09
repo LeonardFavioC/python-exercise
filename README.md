@@ -25,8 +25,11 @@
 `SU: Sunday`
 
 `Hours format:` : **24:00**
+
 `The hours must not contain minutes`
+
 `Employees can not work at times with different value`
+
 `One register for line in  file txt`
 
 **The input values must strictly have this format:**
@@ -38,13 +41,17 @@
 **Monday - Friday**
 
 `00:01 - 09:00 25 USD`
+
 `09:01 - 18:00 15 USD`
+
 `18:01 - 00:00 20 USD`
 
 **Saturday and Sunday**
 
 `00:01 - 09:00 30 USD`
+
 `09:01 - 18:00 20 USD`
+
 `18:01 - 00:00 25 USD`
 
 **For example:**
@@ -70,6 +77,7 @@ Case 2:
 `The amount to pay ASTRID is: 85 USD`
 
 `To change inputs edit data.txt`
+
 `To change values for hour change SCHEDULE in index.py`
 
 ## Usage
@@ -82,4 +90,4 @@ Case 2:
 
 `python index.py`
 
-%By: Leonardo Caraguay# python-exercise
+**By: Leonardo Caraguay**

@@ -1,5 +1,5 @@
-
 # coding: utf-8
+
 from models import *
 
 SCHEDULE = [
@@ -31,7 +31,6 @@ def read_file(name):
         x = open(name, 'r')
         return x
     except:
-        print('en el error')
         return('Something went wrong when reading to the file')
         x.close()
 
