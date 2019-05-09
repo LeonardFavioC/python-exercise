@@ -1,4 +1,4 @@
-# Exercise to calculate the value to pay according to hours worked in python
+# Exercise to calculate the value to pay according to hours worked
 
 ## Details
 
